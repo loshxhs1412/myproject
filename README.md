@@ -9,7 +9,7 @@ $ clip < ~/.ssh/id_rsa.pub # copies the keys to clipboard
 $ ssh -T git@github.com
 continue to connect (yes)
 
-work on the file 
+##Work on the file 
 
 4. git add . || git add FILENAME # add specific file to staging area
 5. git status # return list of things to commit
@@ -18,4 +18,8 @@ work on the file
 8. git remote -v #list remote connections
 9. git push -u origin master #pushes changes to origin
 
+**Changes only occur after saving**
+
 10. git diff #shows the file changes not yet staged
+
+last save at 10:53
