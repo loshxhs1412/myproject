@@ -28,4 +28,6 @@ last save at 10:54
 I am directly changing the master fiel using the github website.
 
 **Pull requests**
-
+If i want to get some feedback before pushing my work onto master, I can use a pull request
+Pulls create a branch, so that other people can review my work, and then get merged once everything is good
+I can also edit things further in my pull branch, just like this sentence!!
