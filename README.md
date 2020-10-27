@@ -11,6 +11,7 @@ continue to connect (yes)
 
 work on the file 
 
-4. git add . || git add FILENAME # add specific file
+4. git add . || git add FILENAME # add specific file to staging area
 5. get status # return list of things to commit
 6. git commit -m "Commit message"
+7. git remote add origin git@github.com:loshxhs1412/myproject
