@@ -12,6 +12,10 @@ continue to connect (yes)
 work on the file 
 
 4. git add . || git add FILENAME # add specific file to staging area
-5. get status # return list of things to commit
+5. git status # return list of things to commit
 6. git commit -m "Commit message"
-7. git remote add origin git@github.com:loshxhs1412/myproject
+7. git remote add origin git@github.com:loshxhs1412/myproject #adds myproject to the name origin
+8. git remote -v #list remote connections
+9. git push -u origin master #pushes changes to origin
+
+10. git diff #shows the file changes not yet staged
